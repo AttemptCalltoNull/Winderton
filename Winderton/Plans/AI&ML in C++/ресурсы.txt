@@ -1,0 +1,42 @@
+Тут будут собраны все необходимые материалы для твоего обучения, такие как: Библиотека, полезные ссылки, курсы, дополнительные проекты и так далее.
+Все эти ресурсы ежемесячно обновляются, поэтому можешь остаться в команде на подписке за 10 или 20 баксов, чтобы все самое актуальное было у тебя под рукой.
+
+Пис
+
+
+
+
+
+## Check Items: 
+
+### Проекты для разбора
+https://bitesofcode.wordpress.com/2017/09/12/augmented-reality-with-python-and-opencv-part-1/
+http://aosabook.org/en/500L/optical-character-recognition-ocr.html
+https://towardsdatascience.com/how-to-generate-music-using-a-lstm-neural-network-in-keras-68786834d4c5
+https://github.com/nornagon/jonesforth/blob/master/jonesforth.S
+http://www.buildyourownlisp.com/
+http://effbot.org/zone/simple-top-down-parsing.htm
+https://ruslanspivak.com/lsbasi-part1/
+https://www.freecodecamp.org/news/using-machine-learning-to-predict-the-quality-of-wines-9e2e13d7480d/
+https://medium.com/we-are-orb/linear-regression-in-python-without-scikit-learn-50aef4b8d122
+https://towardsdatascience.com/how-to-build-a-simple-song-recommender-296fcbc8c85
+https://www.pyimagesearch.com/2018/02/26/face-detection-with-opencv-and-deep-learning/
+https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/
+https://www.pyimagesearch.com/2018/07/09/face-clustering-with-python/
+https://medium.com/@ageitgey/how-to-break-a-captcha-system-in-15-minutes-with-machine-learning-dbebb035a710
+https://www.freecodecamp.org/news/building-an-image-caption-generator-with-deep-learning-in-tensorflow-a142722e9b1f/
+https://heartbeat.fritz.ai/how-to-train-a-keras-model-to-generate-colors-3bc79e54971b
+
+### Курсы с 1го по 5ый
+http://www.infocobuild.com/education/audio-video-courses/computer-science/cs162-berkeley.html
+http://www.infocobuild.com/education/audio-video-courses/computer-science/cs169-berkeley.html
+http://www.ece.cmu.edu/~ece447/s15/doku.php?id=schedule
+https://see.stanford.edu/Course/CS107
+http://www.eecs.harvard.edu/~cs161/syllabus.html
+https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/
+https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/
+https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/
+
+### Библиотека
+https://www.dropbox.com/s/pacdqeo6p4qh5w3/lib.zip?dl=0
+

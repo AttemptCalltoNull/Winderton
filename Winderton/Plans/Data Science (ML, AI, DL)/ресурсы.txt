@@ -1,0 +1,156 @@
+Тут будут собраны все необходимые материалы для твоего обучения, такие как: Библиотека, полезные ссылки, курсы, дополнительные проекты и так далее.
+Все эти ресурсы ежемесячно обновляются, поэтому можешь остаться в команде на подписке за 10 или 20 баксов, чтобы все самое актуальное было у тебя под рукой.
+
+
+___________
+
+Допы:
+Суммаризация Clean Code:
+https://kingadesign.com/clean-code-poster-free-download?fbclid=IwAR2p9y7Rf5gyH586sXYxp2dgoA3kWvRlLO5jfgeHlj77k1Y94qM1grjdW84
+
+О Контейнерах, Докере:
+https://codeahoy.com/2019/04/12/what-are-containers-a-simple-guide-to-containerization-and-how-docker-works/
+
+О том, что следует учить и другие языки, даже если на них не кодите.
+https://thorstenball.com/blog/2019/04/09/learn-more-programming-languages/
+
+______________
+
+Челы, которым отдают респект и на которых ровняюсь.
+
+Tony Albrecht
+Mike Acton
+Per Vognsen
+Ben Deane
+Shawn McGrath
+Sean Middleditch
+Casey
+
+_________________
+
+Stackoverflow - Тут я обычно читаю все interesting + hot. Раньше читал вопросы по C++, Java, Python и тд в отсортированноом порядке по популярности. Прочел их все, и наверное это как-то повлияло на то, какой я есть, потому что изучил кучу чужих проблем и "не встал" на грабли тем самым.
+
+Quora - это chill out ресурс. Тут чекаю в основном тоже самое, что и на медиуме. Не на кого не подписан. Раньше был подписан на Томаса Кормана и Марка Цукерберга.
+
+__________________
+
+
+Medium
+
+https://medium.com/topic/programming
+https://medium.com/topic/data-science
+https://medium.com/topic/software-engineering
+https://medium.com/@mike_acton
+
+
+Reddit
+
+https://www.reddit.com/r/AskComputerScience/
+https://www.reddit.com/r/GraphicsProgramming/
+https://www.reddit.com/r/programming/
+https://www.reddit.com/r/programminghumor/
+https://www.reddit.com/r/gamedev/
+https://www.reddit.com/r/C_Programming/
+https://www.reddit.com/r/learnprogramming/
+https://www.reddit.com/r/cscareerquestions/
+https://www.reddit.com/r/Algorithms/
+https://www.reddit.com/r/Compilers/
+https://www.reddit.com/r/jobs/
+https://www.reddit.com/r/math/
+
+
+_________________
+
+
+Полезные закладки, которые относятся к различным, околопрограммистким темам, которые я читал неоднократно и решил сохранить.
+__
+Что каждый должен знать о памяти. Классика интернета.
+https://lwn.net/Articles/250967/
+
+Что каждый должен знать о числах с плавающей точкой.
+https://floating-point-gui.de/
+
+Как конспектировать?
+http://coe.jmu.edu/learningtoolbox/cornellnotes.html
+
+Big O. Анализ сложности алгоритмов и структур.
+http://bigocheatsheet.com/
+
+40 cs идей
+http://carlcheo.com/compsci
+
+Статья о том, как даже топеры по кд все гуглят.
+https://two-wrongs.com/how-much-does-an-experienced-programmer-use-google
+
+Подготовка к интерьвью/собеседу
+https://gist.github.com/TSiege/cbb0507082bb18ff7e4b
+
+Матрица из моего видоса о класиффикации программиста
+http://www.starling-software.com/employment/programmer-competency-matrix.html
+
+Подготовка к собеседу номер 2
+https://www.programmerinterview.com/
+
+Подготовка к собеседу номер 3
+https://github.com/MaximAbramchuck/awesome-interview-questions#c
+
+GPU memory model overview
+https://www.seas.upenn.edu/~cis565/LECTURES/Lecture3.pdf
+
+Haswell microarchitecture
+https://www.realworldtech.com/haswell-cpu/6/
+
+_________________________
+
+Математика
+
+Про математике для гейм дева
+https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My
+
+Интерактив по матике
+https://www.mathsisfun.com/
+
+Микростатья о матике для гейм дева. Читал тысячу лет назад.
+https://drive.google.com/file/d/0B77hded6gCyYSkZOc1ZVUGJxN1U/view
+
+
+
+Пис
+
+
+
+
+
+## Check Items: 
+
+### Библиотека
+https://www.dropbox.com/s/pacdqeo6p4qh5w3/lib.zip?dl=0
+
+### Проекты для разбора
+https://bitesofcode.wordpress.com/2017/09/12/augmented-reality-with-python-and-opencv-part-1/
+http://aosabook.org/en/500L/optical-character-recognition-ocr.html
+https://towardsdatascience.com/how-to-generate-music-using-a-lstm-neural-network-in-keras-68786834d4c5
+https://github.com/nornagon/jonesforth/blob/master/jonesforth.S
+http://www.buildyourownlisp.com/
+http://effbot.org/zone/simple-top-down-parsing.htm
+https://ruslanspivak.com/lsbasi-part1/
+https://www.freecodecamp.org/news/using-machine-learning-to-predict-the-quality-of-wines-9e2e13d7480d/
+https://medium.com/we-are-orb/linear-regression-in-python-without-scikit-learn-50aef4b8d122
+https://towardsdatascience.com/how-to-build-a-simple-song-recommender-296fcbc8c85
+https://www.pyimagesearch.com/2018/02/26/face-detection-with-opencv-and-deep-learning/
+https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/
+https://www.pyimagesearch.com/2018/07/09/face-clustering-with-python/
+https://medium.com/@ageitgey/how-to-break-a-captcha-system-in-15-minutes-with-machine-learning-dbebb035a710
+https://www.freecodecamp.org/news/building-an-image-caption-generator-with-deep-learning-in-tensorflow-a142722e9b1f/
+https://heartbeat.fritz.ai/how-to-train-a-keras-model-to-generate-colors-3bc79e54971b
+
+### Курсы
+http://www.infocobuild.com/education/audio-video-courses/computer-science/cs162-berkeley.html
+http://www.infocobuild.com/education/audio-video-courses/computer-science/cs169-berkeley.html
+http://www.ece.cmu.edu/~ece447/s15/doku.php?id=schedule
+https://see.stanford.edu/Course/CS107
+http://www.eecs.harvard.edu/~cs161/syllabus.html
+https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/
+https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/
+https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/
+

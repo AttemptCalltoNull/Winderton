@@ -1,0 +1,244 @@
+Это подборочка курсов лично от меня, в которых я в свое время нашел максимально много + так же пометки по литературе, касаемо ряда общих топиков, таких как: железки, теория языков, сами языки и так далее.
+Итак, курсы:
+1. Это лучший курс по операционным системам, точка.
+2. Очень хороший курс по основам software engineering.
+3. Топ 1 курс по железкам на сети.
+4. Один из моих любимых курсов по языкам, памяти и многому другому.
+5. Этот тоже, крайне офигенный ресурс по железкам и осям, да и вообще, основам программирования. Если какой-то из первых двух не зайдет(в чем я сомневаюсь), то можешь попробовать этот.
+
+Далее книги, которые я рекомендую читать по той, или иной теме:
+1.По железкам, да и вообще архитектуре ЭВМ + многому другому - книга из 5-го цикла. Patt and Patel. Introduction to computing systems.
+Как с ней закончишь, то можешь смело переходить и на Таненбаума.
+2.По операционным системам книга из моей библиотеки. Principles and design of operating systems.
+3.С/С++/assembly. По плюсам, если не уверен в базе своей, то почитай что угодно от таких авторов как: Скот Майерс, Герб Саттер, Прата и Страуструп, как вариант. Многое из этого есть в переводах.
+Можешь взять что-то из моей библы, можешь найти что-то своё, но именно от этих ребят. Скот Майерс - это вообще что-то с чем-то. Классный инженер, с шикарной подачей материала. Его книга, Effective C++ и more Effective C++, это лучшее что я читал по продвинутым плюсам. Так же у меня в библиотеке появились спецификации, которые не являются стандартизированными по ISO, но близко к ним приближены. Тоже советую присмотреться. Это все требует очень много времени и усидчивости, но если ты все это осилишь, то будь уверен, ты будешь ценным для рынка(если ты об этом думаешь).
+Касаемо ассемблера - то тут есть одна книжка(под x86), так точно. Assembly language for x86. Она есть у меня в библе, поэтому ищи и читай. Там много полезной инфы как по самому языку, так и по многим другим, более фундаметальным вещам. Это ж все таки ассемблер )
+Почему именно x86? Потому что я не имею опыта работы с другими микроархтитектурами.
+
+Что касаемо всего остального, то просто посмотри библиотеку. Там полно различной, годной литетаруты, в которой ты найдешь для себя что-то полезное.
+Если же говорить о микроархитектурах, то вся моя практика сводится к x86 совместимым процессорам. Я оч мало знаком с ARM, никогда его не дебажил, но если тебе вдруг будет интереса мобильная разработка, то я могу подкинуть пару ресурсов.
+
+
+______________
+
+
+Различные полезные ресурсы, где можно и стоит искать ответы на вопросы.
+
+http://www.programmerinterview.com/
+https://lwn.net/Articles/250967/
+https://www.dualshockers.com/naughty-dog-explains-ps4s-cpu-memory-and-more-in-detail-and-how-they-can-make-them-run-really-fast/
+https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/
+https://cellperformance.beyond3d.com/articles/
+https://techdifferences.com/
+Первая ссылка - оч крутой сайт, где кратко рассказывается про все технологии, и что спрашивают на собеседованиях. Многим сейчас актуальна, но не смотря на то, что этот сайт типа готовит к собеседованиям, его можно использовать как овервью того, о чем хочешь узнать.
+Вторая - все, что нужно знать об оперативной памяти программисту.
+Вообще, касаемо второй ссылки - это мягко сказано. Это одна из лучших статей в интернете на тему общей программной инженерии вообще. Ее тебе посоветуют просто везде. Там не только память, там затронуты многие секторы компьютерной архитектуры и практик программирования. Поэтому, обязательно поверь.
+Третья - это чел с Naughty dog объясняет за процессор, память и всякие интересные фишки из программирования. Советую тоже чекнуть.
+Четвертая - все о том, как работают GPU.("Всё" - это само собой громко сказано. Там рассказаны общие вещи о том, что нужно знать, чтобы программировать с использованием GPU)
+Пятая. Сайт Майка Эктона, где он рассказывает оч много полезного про программирование, и в частности о лоу-левеле. Не обрщай внимание на то, что это CELL. Эти знания применимы и к x64.
+Так же несколько сайтов, где можно найти полезную инфу.
+Шестая - сайт типа первого. Т.е там много рассказывается о базовых понятиях. Можно почитывать как квору или редит.
+
+Закладки из Браузера+допы.
+__
+
+English
+__
+Словарь Urban. Фишка в том, что он для англоговорящих. Описание нативное, без воды и изичных примеров https://www.urbandictionary.com/
+
+Сайт, где можно практиковать английский с носителями языка, бесплатно.
+https://www.italki.com/
+
+Тест словарного запаса.
+http://testyourvocab.com/
+
+Дефолтный словарь
+https://www.multitran.ru/
+
+Не дефолтный словарь.
+https://context.reverso.net/
+
+++++
+Math
+-------
+Про математике для гейм дева
+https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My
+
+Интерактив по матике
+https://www.mathsisfun.com/
+
+Микростатья о матике для гейм дева. Читал тысячу лет назад.
+https://drive.google.com/file/d/0B77hded6gCyYSkZOc1ZVUGJxN1U/view
+
+__
+
+Полезные закладки, которые относятся к различным, околопрограммистким темам, которые я читал неоднократно и решил сохранить.
+__
+Что каждый должен знать о памяти. Классика интернета.
+https://lwn.net/Articles/250967/
+
+Что каждый должен знать о числах с плавающей точкой.
+https://floating-point-gui.de/
+
+Как конспектировать?
+http://coe.jmu.edu/learningtoolbox/cornellnotes.html
+
+Big O. Анализ сложности алгоритмов и структур.
+http://bigocheatsheet.com/
+
+40 cs идей
+http://carlcheo.com/compsci
+
+Статья о том, как даже топеры по кд все гуглят.
+https://two-wrongs.com/how-much-does-an-experienced-programmer-use-google
+
+Подготовка к интерьвью/собеседу
+https://gist.github.com/TSiege/cbb0507082bb18ff7e4b
+
+Матрица из моего видоса о класиффикации программиста
+http://www.starling-software.com/employment/programmer-competency-matrix.html
+
+Подготовка к собеседу номер 2
+https://www.programmerinterview.com/
+
+Подготовка к собеседу номер 3
+https://github.com/MaximAbramchuck/awesome-interview-questions#c
+
+GPU memory model overview
+https://www.seas.upenn.edu/~cis565/LECTURES/Lecture3.pdf
+
+Haswell microarchitecture
+https://www.realworldtech.com/haswell-cpu/6/
+
+Сайты, которые чекаю каждый день:
+
+
+Medium
+
+https://medium.com/topic/programming
+https://medium.com/topic/data-science
+https://medium.com/topic/software-engineering
+https://medium.com/@mike_acton
+
+
+Reddit
+
+https://www.reddit.com/r/AskComputerScience/
+https://www.reddit.com/r/GraphicsProgramming/
+https://www.reddit.com/r/programming/
+https://www.reddit.com/r/programminghumor/
+https://www.reddit.com/r/gamedev/
+https://www.reddit.com/r/C_Programming/
+https://www.reddit.com/r/learnprogramming/
+https://www.reddit.com/r/cscareerquestions/
+https://www.reddit.com/r/Algorithms/
+https://www.reddit.com/r/Compilers/
+https://www.reddit.com/r/jobs/
+https://www.reddit.com/r/math/
+
+Stackoverflow - Тут я обычно читаю все interesting + hot. Раньше читал вопросы по C++, Java, Python и тд в отсортированноом порядке по популярности. Прочел их все, и наверное это как-то повлияло на то, какой я есть, потому что изучил кучу чужих проблем и "не встал" на грабли тем самым.
+
+Quora - это chill out ресурс. Тут чекаю в основном тоже самое, что и на медиуме. Не на кого не подписан. Раньше был подписан на Томаса Кормана и Марка Цукерберга.
+
+Twitter(просто чекните там мой акк)
+https://twitter.com/windert0n
+Челы, которым отдают респект и на которых ровняюсь.
+
+Tony Albrecht
+Mike Acton
+Per Vognsen
+Ben Deane
+Shawn McGrath
+Sean Middleditch
+Casey
+
+__
+
+
+Блоги
+https://www.joelonsoftware.com/
+https://herbsutter.com/
+https://brennan.io/
+https://fgiesen.wordpress.com/
+
+_
+
+Youtube каналы, которые переодически чекаю
+
+cppcon. Обо всем по чуть-чуть - https://www.youtube.com/channel/UCMlGfpWw-RUdWX_JbLCukXg
+
+handmade hero - создание игрухи с нуля на С++ уже 3й год.
+https://www.youtube.com/channel/UCaTznQhurW5AaiYPbhEA-KA
+
+Челик знает что и как в С
+https://www.youtube.com/channel/UCaV77OIv89qfsnncY5J2zvg
+
+Создание hardware/software стэка с нуля, на С
+https://www.youtube.com/channel/UCguWV1bZg1QiWbY32vGnOLw
+
+Олд, которые переписывал рендерер из квейка. ДУмаю этого достаточно.
+https://www.youtube.com/channel/UCKTehwyGCKF-b2wo0RKwrcg
+
+Путешествия по США
+https://www.youtube.com/channel/UCPur06mx78RtwgHJzxpu2ew
+
+Просто не плохой челик, который что-то знает
+http://blog.hostilefork.com/
+
+Чутка Сшарпа. Челик не знает что он норм знает.
+http://www.csharphelper.com/
+
+
+_____________
+
+
+Проэкты:
+Создание Docker-like, LXC контейнера. Докер сейчас крайне популярен, и важно понимать как он работает. Проект показывает что и как от А до Я.
+
+http://cesarvr.github.io/post/2018-05-22-create-containers/
+
+Создание полноценного эмулятора. Что это такое, как это работает, зачем это нужно? Ответы тут.
+
+http://www.codeslinger.co.uk/pages/projects/gameboy.html
+
+Вменяемый тетрис, который должен уметь писать каждый, кто хоть как-то связан с гейм девом.
+
+http://javilop.com/gamedev/tetris-tutorial-in-c-platform-independent-focused-in-game-logic-for-beginners/
+
+Операционочка с нуля.
+
+https://tuhdo.github.io/os01/
+
+Еще одна, под распбери Пай.
+
+https://github.com/s-matyukevich/raspberry-pi-os
+
+Ну и конеч но же, создание своего бут-лоадера. Многие кто пишут ОСки, пишут из уже с имеющимся бут-лоадером, типа Граба. Тут покажут как написать свой.
+
+http://3zanders.co.uk/2017/10/13/writing-a-bootloader/
+
+Рендеринг, растеризатор. Один из алгоритмов растеризации. 
+
+https://www.scratchapixel.com/lessons/3d-basic-rendering/rasterization-practical-implementation/overview-rasterization-algorithm
+
+Создание своего текстового редактора.(Многие туторы фейлятся в этом плане)
+
+https://www.fltk.org/doc-1.1/editor.html
+
+Создание своего дебагера, кайф.
+
+https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/
+
+Что такое SVG и как сделать кастомный?
+http://www.code-in-c.com/writing-svg-library-c/
+
+
+## Check Items: 
+
+### Курсы с 1го по 5ый
+http://www.infocobuild.com/education/audio-video-courses/computer-science/cs162-berkeley.html
+http://www.infocobuild.com/education/audio-video-courses/computer-science/cs169-berkeley.html
+http://www.ece.cmu.edu/~ece447/s15/doku.php?id=schedule
+https://see.stanford.edu/Course/CS107
+http://www.eecs.harvard.edu/~cs161/syllabus.html
+

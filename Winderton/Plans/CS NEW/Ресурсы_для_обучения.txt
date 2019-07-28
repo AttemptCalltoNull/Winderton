@@ -1,0 +1,55 @@
+Тут будут собраны все необходимые материалы для твоего обучения, такие как: Библиотека, полезные ссылки, курсы, дополнительные проекты и так далее.
+Все эти ресурсы ежемесячно обновляются, поэтому можешь остаться в команде на подписке за 10 или 20 баксов, чтобы все самое актуальное было у тебя под рукой.
+
+Пис
+
+## Check Items: 
+
+### Библиотека
+https://www.dropbox.com/s/pacdqeo6p4qh5w3/lib.zip?dl=0
+
+### Полезные курсы
+http://www.infocobuild.com/education/audio-video-courses/computer-science/cs162-berkeley.html
+https://see.stanford.edu/Course/CS107
+http://www.infocobuild.com/education/audio-video-courses/computer-science/cs169-berkeley.html
+http://www.eecs.harvard.edu/~cs161/syllabus.html
+http://www.ece.cmu.edu/~ece447/s15/doku.php?id=schedule
+https://www.youtube.com/watch?v=jbIQW0gkgxo
+
+### Проекты Python
+https://realpython.com/web-scraping-with-scrapy-and-mongodb/
+https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1
+http://www.skybert.net/python/developing-a-restful-micro-service-in-python/
+https://www.pythonforengineers.com/build-a-reddit-bot-part-1/
+https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
+http://aosabook.org/en/500L/a-3d-modeller.html
+http://charlesleifer.com/blog/building-a-simple-redis-server-with-python/
+
+### Проекты JavaScript
+https://towardsdatascience.com/how-to-write-a-jupyter-notebook-extension-a63f9578a38c
+https://github.com/conradoqg/naivecoin
+https://medium.com/@spenserhuang/learn-build-a-javascript-blockchain-part-1-ca61c285821e
+https://jasonformat.com/wtf-is-jsx/
+https://github.com/pomber/didact
+http://teropa.info/blog/2013/11/03/make-your-own-angular-part-1-scopes-and-digest.html
+
+### Проекты Java/kotlin
+https://javarevisited.blogspot.com/2015/06/how-to-create-http-server-in-java-serversocket-example.html
+https://scotch.io/tutorials/build-a-spring-boot-app-with-user-authentication
+https://android.jlelse.eu/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664
+http://blog.rogach.org/2015/08/how-to-create-your-own-simple-3d-render.html
+
+### Проекты C#
+https://www.intertech.com/Blog/xamarin-tutorial-part-1-create-a-blank-app/
+https://www.raywenderlich.com/1044-building-ios-apps-with-xamarin-and-visual-studio
+https://roguesharp.wordpress.com/
+https://www.seanjoflynn.com/research/bittorrent.html
+
+### Проекты C/C++
+https://viewsourcecode.org/snaptoken/kilo/
+https://nesdoug.com/
+http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/
+http://3zanders.co.uk/2017/10/13/writing-a-bootloader/
+https://blog.lizzie.io/linux-containers-in-500-loc.html
+https://cturt.github.io/cinoop.html
+

@@ -1,0 +1,150 @@
+WEB(Это то, где C# и Java преимущественно преобладают) - это крайне раздутая и хайпанутая ветка, в которой многие уже успели поживиться, а многие продолжают это делать. Я хочу сказать то, что тут просто уйма курсов, где тебя могут "научить" чему-то принципиально новому. Изучение основ, изучение топовых фрейворков, изучение инструментов и так далее. Более того, эти ребята пошли дальше, и организовали целые платформы по "подготовке" людей как фронт-энд инженеров так и back-end, да чего уж там, full stack разрабов. Мнение не мое, но я целиком с ним согласен, и звучит оно следующим образом, "Все эти курсы - это дерьмище, где максимум, что ты узнаешь, это как сделать выпадающее меню, или стандартный spa с примитивным, без возможности масштабировать бэком, делать который можно научиться на первых страницах офф. доков. Смысл этих площадок, "udemy, pluralsight, edx, open2study, treehouse, codeacademy, geekbrains, javarush и так далее в том, чтобы заработать денег, а не выпускать качественных инженеров." Я хочу сказать то, что я не могу тебе порекомендовать *никаких курсов, и ограничу тебя лишь книгами, статьями и гуглом. 
+*у меня все же есть для тебя парочка курсов, один из которых предлагает сам MIT. Они узкоспециализированны, да, но там ты узнаешь явно больше, чем из любого курса, который ты можешь купить на сети.
+Я не советую тебе смотреть различные курсы, а рекомендую тебе остановиться на том, что есть в этом плане + воспользоваться гуглом и иногда ютюбом. 
+Умение искать нужную информацию - это ценный навык, поэтому - да, у тебя сейчас есть все необходимое + последовательность. Ты можешь гуглить то, что ты не сможешь понять с помощью "моих" ресурсов, но я думаю ты справишься и не свернешь с пути.
+
+1. Курс по веб-деву в принципе. не смотри на то, что он старый. Там достаточно много фундаментальных основ, которые все еще актуальны и будут актуальными.
+2. общий курс по software dev'у. Один из лучших на сети.
+3. Это не курс, а канал челика, который показывает как использовать С#, хоть и не в интерпрайз среде. Я его одобряю, он знает что делает, и от него ты можешь черпнуть только хорошего. 
+
+____________________________
+
+Допы:
+Суммаризация Clean Code:
+https://kingadesign.com/clean-code-poster-free-download?fbclid=IwAR2p9y7Rf5gyH586sXYxp2dgoA3kWvRlLO5jfgeHlj77k1Y94qM1grjdW84
+
+О Контейнерах, Докере:
+https://codeahoy.com/2019/04/12/what-are-containers-a-simple-guide-to-containerization-and-how-docker-works/
+
+О том, что следует учить и другие языки, даже если на них не кодите.
+https://thorstenball.com/blog/2019/04/09/learn-more-programming-languages/
+
+______________
+
+Челы, которым отдают респект и на которых ровняюсь.
+
+Tony Albrecht
+Mike Acton
+Per Vognsen
+Ben Deane
+Shawn McGrath
+Sean Middleditch
+Casey
+
+_________________
+
+Stackoverflow - Тут я обычно читаю все interesting + hot. Раньше читал вопросы по C++, Java, Python и тд в отсортированноом порядке по популярности. Прочел их все, и наверное это как-то повлияло на то, какой я есть, потому что изучил кучу чужих проблем и "не встал" на грабли тем самым.
+
+Quora - это chill out ресурс. Тут чекаю в основном тоже самое, что и на медиуме. Не на кого не подписан. Раньше был подписан на Томаса Кормана и Марка Цукерберга.
+
+__________________
+
+
+Medium
+
+https://medium.com/topic/programming
+https://medium.com/topic/data-science
+https://medium.com/topic/software-engineering
+https://medium.com/@mike_acton
+
+
+Reddit
+
+https://www.reddit.com/r/AskComputerScience/
+https://www.reddit.com/r/GraphicsProgramming/
+https://www.reddit.com/r/programming/
+https://www.reddit.com/r/programminghumor/
+https://www.reddit.com/r/gamedev/
+https://www.reddit.com/r/C_Programming/
+https://www.reddit.com/r/learnprogramming/
+https://www.reddit.com/r/cscareerquestions/
+https://www.reddit.com/r/Algorithms/
+https://www.reddit.com/r/Compilers/
+https://www.reddit.com/r/jobs/
+https://www.reddit.com/r/math/
+
+
+_________________
+
+
+Полезные закладки, которые относятся к различным, околопрограммистким темам, которые я читал неоднократно и решил сохранить.
+__
+Что каждый должен знать о памяти. Классика интернета.
+https://lwn.net/Articles/250967/
+
+Что каждый должен знать о числах с плавающей точкой.
+https://floating-point-gui.de/
+
+Как конспектировать?
+http://coe.jmu.edu/learningtoolbox/cornellnotes.html
+
+Big O. Анализ сложности алгоритмов и структур.
+http://bigocheatsheet.com/
+
+40 cs идей
+http://carlcheo.com/compsci
+
+Статья о том, как даже топеры по кд все гуглят.
+https://two-wrongs.com/how-much-does-an-experienced-programmer-use-google
+
+Подготовка к интерьвью/собеседу
+https://gist.github.com/TSiege/cbb0507082bb18ff7e4b
+
+Матрица из моего видоса о класиффикации программиста
+http://www.starling-software.com/employment/programmer-competency-matrix.html
+
+Подготовка к собеседу номер 2
+https://www.programmerinterview.com/
+
+Подготовка к собеседу номер 3
+https://github.com/MaximAbramchuck/awesome-interview-questions#c
+
+GPU memory model overview
+https://www.seas.upenn.edu/~cis565/LECTURES/Lecture3.pdf
+
+Haswell microarchitecture
+https://www.realworldtech.com/haswell-cpu/6/
+
+_________________________
+
+Математика
+
+Про математике для гейм дева
+https://www.youtube.com/playlist?list=PLW3Zl3wyJwWOpdhYedlD-yCB7WQoHf-My
+
+Интерактив по матике
+https://www.mathsisfun.com/
+
+Микростатья о матике для гейм дева. Читал тысячу лет назад.
+https://drive.google.com/file/d/0B77hded6gCyYSkZOc1ZVUGJxN1U/view
+
+
+## Check Items: 
+
+### Курсы
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-171-software-engineering-for-web-applications-fall-2003/
+http://www.infocobuild.com/education/audio-video-courses/computer-science/cs169-berkeley.html
+https://www.youtube.com/playlist?list=PL1n0B6z4e_E5aB2FqwrNRrhLyO0aqW_Bo
+
+### Библиотека
+https://www.dropbox.com/s/pacdqeo6p4qh5w3/lib.zip?dl=0
+
+### java проекты
+- https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa
+https://medium.com/@SeloSlav/how-to-make-a-scary-russian-twitter-bot-with-java-b7b62768a3ac
+https://avik-das.github.io/build-your-own-raytracer/
+http://blog.rogach.org/2015/08/how-to-create-your-own-simple-3d-render.html
+http://jakubdziworski.github.io/categories.html#Enkel-ref
+https://www.youtube.com/playlist?list=PLgCYzUzKIBE9HUJU-upNvl3TRVAo9W47y
+https://scotch.io/tutorials/build-a-spring-boot-app-with-user-authentication
+
+### C# проекты
+https://www.seanjoflynn.com/research/bittorrent.html
+https://programmingblockchain.gitbook.io/programmingblockchain/
+https://www.codeproject.com/Articles/1029838/Build-Your-Own-Database
+https://roguesharp.wordpress.com/
+https://www.codeproject.com/Articles/11285/Neural-Network-OCR
+https://mattmakesgames.tumblr.com/post/127890619821/towerfall-physics
+https://www.intertech.com/Blog/xamarin-tutorial-part-1-create-a-blank-app/
+https://www.youtube.com/playlist?list=PLVMqA0_8O85yC78I4Xj7z48ES48IQBa7p
+
