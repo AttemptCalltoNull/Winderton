@@ -1,0 +1,108 @@
+Курсы, на которые тебе стоит обратить внимание. Их будет всего несколько, но это самое отборное из того, что вообще есть в сфере.
+- Первая ссылка в чек-листе - это курс по основам CS. Ты его можешь не проходить, но в нем много полезностей, именно фундаментальных.
+- Вторая ссылка - курс по железкам. Оно один в своем роде на сети, поэтому - да, тут не мудрено.
+- Третья и четвертая ссылка - курсы по операционкам. 
+- Пятая, знаменитый курс по iOS из Стенфорда.
+
+Английский у тебя прохладный, да, но я все же советую тебе попробовать осилить эти курсы, хотя бы с субтитрами, потому что ты явно черпнешь из них больше, чем с книг или различного рода статей с интернета.
+
+_______
+
+Дополнительные ресурсы.
+Книги:
+1. По программированию Android. Android Programming: The Big Nerd Ranch Guide. Третье издание. Одна из лучших книг на сети пока. Простое изложение, внятные примеры.
+2. Java. Шилдт и Джошуа Блок. Именно второго автора чинаешь Effective Java, 2 издание.
+3. Kotlin. По колтин все же есть одна не плохая книга, но опять же, я бы рекомендовал остановится на офф доках.
+Kotnin in Action
+
+Различные полезные ресурсы, где можно и стоит искать ответы на вопросы.
+
+1. http://www.programmerinterview.com/
+2. https://lwn.net/Articles/250967/
+3. https://www.dualshockers.com/naughty-dog-explains-ps4s-cpu-memory-and-4. more-in-detail-and-how-they-can-make-them-run-really-fast/
+5. https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/
+6. https://cellperformance.beyond3d.com/articles/
+7. https://techdifferences.com/
+Первая ссылка - оч крутой сайт, где кратко рассказывается про все технологии, и что спрашивают на собеседованиях. Многим сейчас актуальна, но не смотря на то, что этот сайт типа готовит к собеседованиям, его можно использовать как овервью того, о чем хочешь узнать.
+Вторая - все, что нужно знать об оперативной памяти программисту.
+Вообще, касаемо второй ссылки - это мягко сказано. Это одна из лучших статей в интернете на тему общей программной инженерии вообще. Ее тебе посоветуют просто везде. Там не только память, там затронуты многие секторы компьютерной архитектуры и практик программирования. Поэтому, обязательно поверь.
+Третья - это чел с Naughty dog объясняет за процессор, память и всякие интересные фишки из программирования. Советую тоже чекнуть.
+Четвертая - все о том, как работают GPU.("Всё" - это само собой громко сказано. Там рассказаны общие вещи о том, что нужно знать, чтобы программировать с использованием GPU)
+Пятая. Сайт Майка Эктона, где он рассказывает оч много полезного про программирование, и в частности о лоу-левеле. Не обрщай внимание на то, что это CELL. Эти знания применимы и к x64.
+Так же несколько сайтов, где можно найти полезную инфу.
+Шестая - сайт типа первого. Т.е там много рассказывается о базовых понятиях. Можно почитывать как квору или редит.
+
+stackexchange.com
+Это ресурс, где есть куча ветвей на любой вкус.
+Одна из них - stackoverflow.com. Самое популярное место среди программистов. Туда ты будешь ходить с разными вопросами, и тебе их там помогут решить.
+Так же тут есть другие ветви, например, тот же самый cs50. Т.е то место, где решают вопросы с этого курса.
+Так же там, т.е на stackoverflow, можно найти самые популярные вопросы по той или иной технологии, например, топ вопросов по Java, и, так сказать, избавить себя от граблей, на которые ты рано или поздно бы наступил. Оч удобно.
+
+quora.com
+Место, где просто можно найти много полезного по программированию и не только. Там постоянно задают прикольные вопросы, поэтому - проверяй. Ну а вообще, многие относятся к кворе как к фейсбуку, т.е она отвлекает, и там спокойно можно сидеть часами. Имей это ввиду.
+
+reddit.com
+Ну тут очевидно. Топ 1 сайт, от куда все копируют инфу на всякие хабрахабры и тостеры.
+Находишь любой интересующий тебя reddit, или поток, например "Программирование", сортируешь все по рейтингу(или как хочешь), и смотришь лучшие вопросы за все время существования этого сайта. Тот же принцип как и со stackoverflow. Можно узнать кучу полезного и сэкономить время.
+
+http://context.reverso.net
+офигенный словарь, где можно найти реально полезные примеры
+
+https://www.multitran.ru/
+Еще один словарь, но первый мне нравится больше.
+
+MVC vs MVVM vs MVP и тд(Архитектура)
+https://academy.realm.io/posts/krzysztof-zablocki-mDevCamp-ios-architecture-mvvm-mvc-viper/
+https://medium.com/ios-os-x-development/ios-architecture-patterns-ecba4c38de52
+
+Dependency Injection
+https://www.bignerdranch.com/blog/dependency-injection-ios/
+
+SOLID
+https://marcosantadev.com/solid-principles-applied-swift/
+
+Concurrency
+https://www.uraimo.com/2017/05/07/all-about-concurrency-in-swift-1-the-present/
+
+Debug
+https://www.objc.io/issues/19-debugging/lldb-debugging/
+
+Testing
+https://www.toptal.com/qa/how-to-write-testable-code-and-why-it-matters
+
+Функциональный swift
+https://academy.realm.io/posts/altconf-ash-furrow-functional-reactive-swift/
+
+http и restfull
+https://code.tutsplus.com/tutorials/a-beginners-guide-to-http-and-rest--net-16340
+
+Шаблоны проектирования чисто для андроид
+https://www.raywenderlich.com/470-common-design-patterns-for-android-with-kotlin
+
+Архитектуры проложений
+https://academy.realm.io/posts/eric-maxwell-mvc-mvp-and-mvvm-on-android/
+
+Android core
+https://blog.mindorks.com/android-core-looper-handler-and-handlerthread-bd54d69fe91a
+
+Для продуктивности
+https://techbeacon.com/best-productivity-tools-android-developers
+
+Лучшие практики Android
+https://blog.mindorks.com/android-development-best-practices-83c94b027fd3
+
+Челики, за которыми тебе стоит следить
+https://techbeacon.com/40-leading-android-developers-follow-twitter
+
+
+*//////////////////////////////////////////////////////////////////
+
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/
+
+http://www.ece.cmu.edu/~ece447/s15/doku.php?id=schedule
+
+http://www.infocobuild.com/education/audio-video-courses/computer-science/cs162-berkeley.html
+
+http://www.eecs.harvard.edu/~cs161/syllabus.html
+
+https://www.youtube.com/playlist?list=PLPA-ayBrweUzGFmkT_W65z64MoGnKRZMq
